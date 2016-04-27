@@ -1,0 +1,71 @@
+﻿  Game_driver.cpp
+Game_driver.cpp(411): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+Game_driver.cpp(418): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+Game_driver.cpp(436): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+Game_driver.cpp(440): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Game_driver.cpp(441): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Game_driver.cpp(443): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Game_driver.cpp(445): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+Game_driver.cpp(449): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Game_driver.cpp(450): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Game_driver.cpp(452): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Game_driver.cpp(527): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+Game_driver.cpp(571): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Maze.cpp
+Maze.cpp(61): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+Maze.cpp(61): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+Maze.cpp(88): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(89): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(90): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(91): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(93): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(94): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(95): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(96): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(98): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(99): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(100): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(101): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(103): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(110): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(112): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(113): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(114): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(115): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(117): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(118): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(119): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(120): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(122): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(126): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(127): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(128): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(129): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(131): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(132): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(133): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(134): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(136): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(137): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(138): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(139): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(141): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(145): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(146): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(147): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(148): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(150): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(151): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(152): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(153): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(155): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(156): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(157): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(158): warning C4305: '=': truncamiento de 'double' a 'float'
+Maze.cpp(160): warning C4305: '=': truncamiento de 'double' a 'float'
+  Generando código
+  5 of 63 functions ( 7.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Maze3D.vcxproj -> C:\Users\Sam\Documents\9th Sem\Graficos Computacionales\Computer Graphics\Release\Maze3D.exe
